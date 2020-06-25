@@ -10,6 +10,7 @@ public class HomeController {
 	public String home() {
 		//ah .... michigetneys
 		System.out.println("HI");
+		System.out.println("TESTEST");
 		return "home";
 	}
 	
